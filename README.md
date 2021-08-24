@@ -6,6 +6,7 @@
 
 oh, but I do want to put in a gpg key.  so be a big enough dork to use gpg, and you'll get my contact method, too.
 
+'''
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGDZ3eQBDADfLc6vC0BtBLvm5m0GsgkXNCsRNiqJno4ggG5wPmQiknlY5HEQ
@@ -47,9 +48,10 @@ xJQhm/aoQhpNO9od4NpHGV6vC/atRVncflIeRa/iT4/dt9aNntbdX9AyIAxdJ8up
 uhuW4CLS0/Tsmdarq61z/dgqy7EokKAdy1xxV+kzpGFG
 =SSnh
 -----END PGP PUBLIC KEY BLOCK-----
-
+'''
 
 <!---
 zuluechopapa/zuluechopapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
